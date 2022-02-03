@@ -4,7 +4,7 @@ Hello, This is Raian Rahman! You can call me by Pranon <br/>This contains overvi
 # Research & Publications:
 |No.| Description | Published | GitHub Repo | Link to Publication|
 |:---:|:-----------|:-----------:|:-------------:|:--------------------:|
-|1. |Densely-populated traffic detection using YOLOv5 and non-maximum suppression ensembling.| Yes | [Code](https://github.com/pranonrahman/DhakaAI2020)|[Springer LNDCET'21](https://link.springer.com/chapter/10.1007/978-981-16-6636-0_43)|
+|1. |Densely-populated traffic detection using YOLOv5 and non-maximum suppression ensembling.| Yes | [Code](https://github.com/pranonrahman/DhakaAI2020)|[Springer LNDECT'21](https://link.springer.com/chapter/10.1007/978-981-16-6636-0_43)|
 
 
 
