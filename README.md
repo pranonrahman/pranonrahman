@@ -1,44 +1,31 @@
-Hello, This is Raian Rahman! You can call me by Pranon <br/>This contains overview of the my activities like research works, machine learning competitions, projects etc. 
-
-	
-# Research & Publications:
-|No.| Description | Published | GitHub Repo | Link to Publication|
-|:---:|:-----------|:-----------:|:-------------:|:--------------------:|
-|1. |Densely-populated traffic detection using YOLOv5 and non-maximum suppression ensembling.| Yes | [Code](https://github.com/pranonrahman/DhakaAI2020)|[Springer LNDECT'21](https://link.springer.com/chapter/10.1007/978-981-16-6636-0_43)|
+# 💫 About Me:
+Hi there. This is Pranon. <br>I am a Problem Solver, <br>             Software Engineer and <br>             Natural Language Processing research enthusiast.<br>Currently, I am focusing on Spring Boot based microservice architecture.<br>
 
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pranonrahman) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pranonraian) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranonrahman) 
 
-	
-# ML Competitions
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=flat&logo=Thymeleaf&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pranonrahman&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pranonrahman&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranonrahman&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-The following table contains all the code bases of the competitions that I participated on different platforms. 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pranonrahman&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-| No. |                                  Challenge Name                                  |                                                                                         GitHub Repo                                                                                            |      Type      |                       Position                        | 
-| :-: | :------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: | :---------------------------------------------------: | 
-|  1.  |           Dhaka AI 2021        |         [Solution](https://github.com/pranonrahman/DhakaAI2020)         |  Object Detection |       6th out of 273 teams (Team_Perceptron)        |
-|  2.  |           Commonlit readability Challenge         |         [Solution]()                                 | Regression        |    485th out of 3633 teams ( Entropy Capstone)  |
-|  3.  |           Multi Agent Behavioural Challenge       |         [Solution]()                                 | Few Shot and zero shot classification        |    10th out of 49 teams (ChaosForces)  |
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
+---
+[![](https://visitcount.itsvg.in/api?id=pranonrahman&icon=1&color=1)](https://visitcount.itsvg.in)
 
-<!-- # Projects and Tutorial Repos
-| No. |         GitHub Repo    |      Description     | Category |  
-|:--:|:--------------------:|:-------------------|:------: |
-|  1. | [Object-Detection-and-Segmentation-with-TorchVision](https://github.com/redwankarimsony/Object-Detection-and-Segmentation-with-TorchVision)|   For this tutorial, I have finetuned a pre-trained Mask R-CNN model in the Penn-Fudan Database for Pedestrian Detection and Segmentation. It contains 170 images with 345 instances of pedestrians, and later on it will use it to illustrate how to use the new features in torchvision in order to train an instance segmentation model on a custom dataset. | Detection and Segmentation |
- -->
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/pranonraian) 
 
-
-
-
-# Author: 
-**Raian Rahman** <br/>
-Department of Computer Science & Engineering (CSE), <br/>
-Islamic University of Technology (IUT) <br/>
-Dhaka, Bangladesh <br/>
-[Google Scholar](https://scholar.google.com/citations?user=MiTS-lwAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Raian-Rahman)  | [Kaggle](https://www.kaggle.com/pranonraian) | [Linkedin](https://www.linkedin.com/in/raian-rahman/)  | [Codeforces](https://codeforces.com/profile/pranonraian) </br>
-Email: raianrahman@iut-dhaka.edu<br>
-	pranonraian@gmail.com
-	
-
-[<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=pranonrahman&show_icons=true"/>](https://github.com/pranonrahman/)
-<p><img align='left' src="https://komarev.com/ghpvc/?username=pranonrahman" alt="Raian Rahman" /> </p>
+  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  
